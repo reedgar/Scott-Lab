@@ -1,0 +1,12 @@
+#NEXUS 
+
+[!
+FASTA file "~/Scott_Lab/W22,ga1s,ga1m_alignment"
+  (imported Fri Mar  9 15:00:51 2018)
+]
+Begin data;
+    Dimensions ntax=0 nchar=0;
+    Format datatype=nucleotide gap=- missing=?;
+    Matrix
+    ;
+End;
